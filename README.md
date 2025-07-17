@@ -1,2 +1,2 @@
 # sample
-sample, study purpose
+sample, study purpose use
